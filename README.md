@@ -1,8 +1,6 @@
 # 💫 About Me:
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
-## 🌐 Socials:
+I am Front-End Developer at Bitpoint you can find me on LinkedIn.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-upadhayay-541039129/) 
 
 # 💻 Tech Stack:

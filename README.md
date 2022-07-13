@@ -9,10 +9,10 @@ I am Front-End Developer at Bitpoint you can find on
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PawanNepson&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanNepson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---

@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me🧑🏻:
 I am Front-End Developer at Bitpoint you can find on➡️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawan-upadhayay-541039129) 
 ![](https://komarev.com/ghpvc/?username=your-PawanNepson&color=dc143c)
